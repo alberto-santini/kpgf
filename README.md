@@ -1,6 +1,6 @@
 ## 0-1 Knapsack Problem with Group Fairness
 
-This repository contains a set of instances and the source code of a solver for the 0-1 Knapsack with Group Fairness.
+This repository contains a set of instances and the source code of a solver for the 0-1 Knapsack Problem with Group Fairness.
 
 ### Citation
 
