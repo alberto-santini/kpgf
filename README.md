@@ -33,7 +33,7 @@ You can also cite this repository as follows:
     author={Malaguti, Enrico and Paronuzzi, Paolo and Santini, Alberto},
     year=2025,
     url={https://github.com/alberto-santini/kpgf},
-    doi={...}
+    doi={10.5281/zenodo.14936404}
 }
 ```
 
