@@ -18,7 +18,7 @@ You can cite the working paper as follows:
 
 ```bib
 @techreport{kpgf,
-    title={Models and Alorithms for a 0--1 Knapsack Problem with Group Fairness},
+    title={Algorithms and complexity results for the 0-1 Knapsack Problem with Group Fairness},
     author={Malaguti, Enrico and Paronuzzi, Paolo and Santini, Alberto},
     year=2025,
     url={...}
