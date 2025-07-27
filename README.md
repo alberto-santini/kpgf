@@ -2,6 +2,7 @@
 
 This repository contains a set of 1787 feasible instances for the 0-1 Knapsack Problem with Group Fairness.
 The instances are in folder `instances` and the generator used to create them is in folder `generator`.
+Additional, larger, instances are in folder `instances_jooken`.
 
 The repository also contains the source code of various solvers for this problem (solver `src`):
 
@@ -11,6 +12,7 @@ The repository also contains the source code of various solvers for this problem
 
 Folder `results` contains the results of the algorithms for the compact and exponential formulations.
 The scripts used to generate the paper figures are in folder `analysis`.
+Analogously, folders `results_jooken` and `analysis_jooken` contain results and an analysis of the additional instances.
 
 ## Citation
 
