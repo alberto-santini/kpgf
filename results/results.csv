@@ -200,7 +200,7 @@ mckp,129929.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-50-20-3,feasible
 compact,5728281.0,9.866466117512332e-05,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-100-9,feasible,3.5744822025299072,2000,100,9,10000,inverse_strongly_correlated,True
 compact,267652.0,0.0,subset_sum_1000-rnduniform-rnduniform-1000-100-9,feasible,0.0132889747619628,1000,100,9,1000,subset_sum,True
 compact,5759183.0,9.958073955984668e-05,almost_strongly_correlated_10000-rnduniform-rnduniform-2000-20-0,feasible,0.1746828556060791,2000,20,0,10000,almost_strongly_correlated,True
-mckp,757306.0,0.0502846162069561,uncorrelated_similar-rnduniform-rnduniform-2000-20-7,feasible,6972.6839791,2000,20,7,100000,uncorrelated_similar,False
+mckp,757306.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-7,feasible,6972.6839791,2000,20,7,100000,uncorrelated_similar,False
 mckp,411610.0,0.0,mstr_1000-rnduniform-rnduniform-1000-100-8,feasible,1.50800649,1000,100,8,1000,mstr,True
 compact,248823.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-1000-100-4,feasible,0.0645780563354492,1000,100,4,1000,profit_ceiling,True
 compact,491083.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-20-0,feasible,0.1146049499511718,200,20,0,10000,inverse_strongly_correlated,True
@@ -381,7 +381,7 @@ compact,5009269.0,9.99309270696068e-05,weakly_correlated_10000-rnduniform-rnduni
 mckp,681754.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-1000-100-5,feasible,0.960150726,1000,100,5,1000,span_uncorrelated,True
 mckp,92122.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-200-20-8,feasible,0.394644653,200,20,8,1000,span_uncorrelated,True
 mckp,8623504.0,0.0,span_strongly_correlated_10000-rnduniform-rnduniform-2000-20-9,feasible,323.990299951,2000,20,9,10000,span_strongly_correlated,True
-mckp,8116007.0,0.0025381295439141,uncorrelated_10000-rnduniform-rnduniform-2000-20-5,feasible,5985.84051267,2000,20,5,10000,uncorrelated,False
+mckp,8116007.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-5,feasible,5985.84051267,2000,20,5,10000,uncorrelated,False
 compact,911842.0,9.971669069383851e-05,circle_1000-rnduniform-rnduniform-2000-100-2,feasible,1.3088858127593994,2000,100,2,1000,circle,True
 compact,9241119.0,9.175948626764128e-05,circle_10000-rnduniform-rnduniform-2000-100-2,feasible,0.2099988460540771,2000,100,2,10000,circle,True
 mckp,626860.0,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-2000-20-5,feasible,184.607001634,2000,20,5,1000,almost_strongly_correlated,True
@@ -402,7 +402,7 @@ compact,990987.0,0.0089549159083063,span_strongly_correlated_10000-rnduniform-rn
 mckp,487517.0,0.0,mstr_10000-rnduniform-rnduniform-200-20-4,feasible,4.91417285,200,20,4,10000,mstr,True
 compact,133733.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-500-20-5,feasible,0.0129170417785644,500,20,5,1000,weakly_correlated,True
 mckp,116163.0,0.0,inverse_strongly_correlated_1000-rnduniform-rnduniform-500-100-0,feasible,1.02237258,500,100,0,1000,inverse_strongly_correlated,True
-compact,213009.99999999997,0.0,mstr_1000-rnduniform-rnduniform-500-20-9,feasible,0.9452459812164308,500,20,9,1000,mstr,True
+compact,213010.0,0.0,mstr_1000-rnduniform-rnduniform-500-20-9,feasible,0.9452459812164308,500,20,9,1000,mstr,True
 mckp,3721716.0,0.0,span_strongly_correlated_10000-rnduniform-rnduniform-1000-20-6,feasible,78.88777153199999,1000,20,6,10000,span_strongly_correlated,True
 compact,58447.0,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-200-100-3,feasible,0.0038628578186035,200,100,3,1000,almost_strongly_correlated,True
 compact,233772.0,0.0,span_strongly_correlated_10000-rnduniform-rnduniform-100-20-6,feasible,36.709922075271606,100,20,6,10000,span_strongly_correlated,True
@@ -508,7 +508,7 @@ compact,5785974.0,0.0,span_uncorrelated_10000-rnduniform-rnduniform-1000-100-8,f
 compact,87277.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-200-100-3,feasible,0.0024831295013427,200,100,3,1000,span_uncorrelated,True
 compact,1345311.0,0.0,profit_ceiling_10000-rnduniform-rnduniform-500-20-7,feasible,0.3112249374389648,500,20,7,10000,profit_ceiling,True
 mckp,56622.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-200-20-6,feasible,0.331326805,200,20,6,1000,weakly_correlated,True
-mckp,7759971.0,0.0057213435106241,uncorrelated_10000-rnduniform-rnduniform-2000-20-1,feasible,6534.192429217001,2000,20,1,10000,uncorrelated,False
+mckp,7759971.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-1,feasible,6534.192429217001,2000,20,1,10000,uncorrelated,False
 compact,297725.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-1000-100-9,feasible,0.1989400386810302,1000,100,9,1000,weakly_correlated,True
 compact,23838.0,0.0,subset_sum_1000-rnduniform-rnduniform-100-20-2,feasible,0.0024220943450927,100,20,2,1000,subset_sum,True
 mckp,496514.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-1000-20-5,feasible,17.744785751,1000,20,5,1000,span_weakly_correlated,True
@@ -648,7 +648,7 @@ compact,81641.0,0.0391806349711655,span_strongly_correlated_1000-rnduniform-rndu
 mckp,131246.0,0.0,subset_sum_1000-rnduniform-rnduniform-500-20-7,feasible,4.709844495,500,20,7,1000,subset_sum,True
 compact,130639.0,0.0,inverse_strongly_correlated_1000-rnduniform-rnduniform-500-20-4,feasible,501.0262081623077,500,20,4,1000,inverse_strongly_correlated,True
 compact,1163189.0,0.0,subset_sum_10000-rnduniform-rnduniform-500-20-2,feasible,0.0045771598815917,500,20,2,10000,subset_sum,True
-mckp,681575.0,0.0077755021800747,uncorrelated_similar-rnduniform-rnduniform-2000-20-0,feasible,6442.539794227,2000,20,0,100000,uncorrelated_similar,False
+mckp,681575.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-0,feasible,6442.539794227,2000,20,0,100000,uncorrelated_similar,False
 compact,5472679.0,9.875153868820138e-05,weakly_correlated_10000-rnduniform-rnduniform-2000-100-6,feasible,0.206907033920288,2000,100,6,10000,weakly_correlated,True
 mckp,1282575.0,0.0,subset_sum_10000-rnduniform-rnduniform-500-20-6,feasible,46.787044508,500,20,6,10000,subset_sum,True
 compact,275335.0,0.0,subset_sum_10000-rnduniform-rnduniform-100-20-7,feasible,0.2117719650268554,100,20,7,10000,subset_sum,True
@@ -844,7 +844,7 @@ mckp,434444.0,0.0,circle_1000-rnduniform-rnduniform-1000-100-0,feasible,1.680626
 compact,4718439.0,5.593384446870439e-05,profit_ceiling_10000-rnduniform-rnduniform-2000-20-3,feasible,0.0179100036621093,2000,20,3,10000,profit_ceiling,True
 mckp,537681.0,0.0,mstr_10000-rnduniform-rnduniform-200-20-6,feasible,3.66592483,200,20,6,10000,mstr,True
 compact,285402.0,0.0,strongly_correlated_1000-rnduniform-rnduniform-1000-100-1,feasible,0.6572368144989014,1000,100,1,1000,strongly_correlated,True
-compact,2544322.0,0.0198585417289937,span_weakly_correlated_10000-rnduniform-rnduniform-1000-100-2,feasible,3600.0007679462437,1000,100,2,10000,span_weakly_correlated,False
+compact,2544322.0,0.0198585417289937,span_weakly_correlated_10000-rnduniform-rnduniform-1000-100-2,feasible,3600.000767946244,1000,100,2,10000,span_weakly_correlated,False
 mckp,836768.0,0.0,uncorrelated_1000-rnduniform-rnduniform-2000-100-8,feasible,10.568734815,2000,100,8,1000,uncorrelated,True
 mckp,993780.0,0.0,circle_10000-rnduniform-rnduniform-200-20-9,feasible,3.397882905,200,20,9,10000,circle,True
 compact,596639.0,0.0035195923976804,strongly_correlated_1000-rnduniform-rnduniform-2000-100-1,feasible,3600.0012278556824,2000,100,1,1000,strongly_correlated,False
@@ -920,7 +920,7 @@ mckp,491708.0,0.0,circle_10000-rnduniform-rnduniform-100-20-8,feasible,2.5128957
 compact,5497690.0,9.881052539171008e-05,weakly_correlated_10000-rnduniform-rnduniform-2000-20-6,feasible,0.0828070640563964,2000,20,6,10000,weakly_correlated,True
 mckp,292760.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-1000-100-8,feasible,1.46683016,1000,100,8,1000,weakly_correlated,True
 mckp,3014493.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-1000-20-2,feasible,220.532870484,1000,20,2,10000,strongly_correlated,True
-compact,473877.0,0.0005729430849342,profit_ceiling_1000-rnduniform-rnduniform-2000-100-3,feasible,3600.0015230178838,2000,100,3,1000,profit_ceiling,False
+compact,473877.0,0.0005729430849342,profit_ceiling_1000-rnduniform-rnduniform-2000-100-3,feasible,3600.001523017884,2000,100,3,1000,profit_ceiling,False
 compact,566874.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-20-9,feasible,0.5494711399078369,200,20,9,10000,inverse_strongly_correlated,True
 compact,7963144.0,0.0090889097504883,span_weakly_correlated_10000-rnduniform-rnduniform-2000-100-1,feasible,3600.001643896103,2000,100,1,10000,span_weakly_correlated,False
 mckp,463986.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-2000-100-1,feasible,9.450343046,2000,100,1,1000,profit_ceiling,True
@@ -997,7 +997,7 @@ mckp,225174.0,0.0,mstr_10000-rnduniform-rnduniform-100-20-0,feasible,3.040911904
 mckp,58867.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-200-100-1,feasible,0.384561692,200,100,1,1000,span_weakly_correlated,True
 mckp,565542.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-20-6,feasible,276.618441966,2000,20,6,1000,weakly_correlated,True
 mckp,67719.0,0.0,uncorrelated_similar-rnduniform-rnduniform-200-20-3,feasible,75.32261210600001,200,20,3,100000,uncorrelated_similar,True
-mckp,6495486.0,0.0064656108016341,almost_strongly_correlated_10000-rnduniform-rnduniform-2000-20-6,feasible,5779.107722991,2000,20,6,10000,almost_strongly_correlated,False
+mckp,6495486.0,0.0,almost_strongly_correlated_10000-rnduniform-rnduniform-2000-20-6,feasible,5779.107722991,2000,20,6,10000,almost_strongly_correlated,False
 mckp,833802.0,0.0,mstr_1000-rnduniform-rnduniform-2000-20-8,feasible,140.308198923,2000,20,8,1000,mstr,True
 compact,515079.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-100-2,feasible,0.1208999156951904,2000,100,2,1000,weakly_correlated,True
 mckp,516219.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-2000-100-8,feasible,11.721800538,2000,100,8,1000,profit_ceiling,True
@@ -1010,7 +1010,7 @@ mckp,273780.0,0.0,mstr_10000-rnduniform-rnduniform-100-20-8,feasible,1.969896556
 compact,6207276.0,0.0080360159303016,strongly_correlated_10000-rnduniform-rnduniform-2000-100-4,feasible,3600.0015909671783,2000,100,4,10000,strongly_correlated,False
 compact,5058263.0,9.878059120023402e-05,weakly_correlated_10000-rnduniform-rnduniform-2000-100-1,feasible,0.1671321392059326,2000,100,1,10000,weakly_correlated,True
 mckp,51760.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-200-100-2,feasible,0.3103216809999999,200,100,2,1000,span_weakly_correlated,True
-mckp,761916.0,0.0331947376500487,uncorrelated_similar-rnduniform-rnduniform-2000-20-8,feasible,4563.039291751,2000,20,8,100000,uncorrelated_similar,False
+mckp,761916.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-8,feasible,4563.039291751,2000,20,8,100000,uncorrelated_similar,False
 mckp,2254900.0,0.0,subset_sum_10000-rnduniform-rnduniform-1000-20-0,feasible,154.83481011499998,1000,20,0,10000,subset_sum,True
 mckp,454361.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-1000-100-9,feasible,1.1169067920000002,1000,100,9,1000,span_uncorrelated,True
 mckp,6817024.0,0.0,span_strongly_correlated_10000-rnduniform-rnduniform-2000-100-2,feasible,82.76488279,2000,100,2,10000,span_strongly_correlated,True
@@ -1037,7 +1037,7 @@ mckp,6693255.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-2000-20-8,fea
 compact,2962139.0,0.0064331820676643,almost_strongly_correlated_10000-rnduniform-rnduniform-1000-20-2,feasible,3600.0009019374847,1000,20,2,10000,almost_strongly_correlated,False
 mckp,1406052.0,0.0,mstr_10000-rnduniform-rnduniform-500-20-9,feasible,50.718141577,500,20,9,10000,mstr,True
 compact,280047.0,0.0185648645657428,inverse_strongly_correlated_1000-rnduniform-rnduniform-1000-20-8,feasible,3600.0007059574127,1000,20,8,1000,inverse_strongly_correlated,False
-mckp,4796736.0,4.169500189503784e-05,profit_ceiling_10000-rnduniform-rnduniform-2000-20-4,feasible,4074.256619679,2000,20,4,10000,profit_ceiling,False
+mckp,4796736.0,0.0,profit_ceiling_10000-rnduniform-rnduniform-2000-20-4,feasible,4074.256619679,2000,20,4,10000,profit_ceiling,False
 mckp,70341.0,0.0,uncorrelated_similar-rnduniform-rnduniform-200-20-7,feasible,104.85064869,200,20,7,100000,uncorrelated_similar,True
 compact,179616.0,0.0060291087436221,span_uncorrelated_1000-rnduniform-rnduniform-2000-100-1,feasible,3600.00119304657,2000,100,1,1000,span_uncorrelated,False
 mckp,498957.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-100-0,feasible,10.955320087,2000,100,0,1000,weakly_correlated,True
@@ -1191,12 +1191,12 @@ compact,2818066.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-1000-100-5,f
 mckp,48321.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-200-20-6,feasible,0.254203321,200,20,6,1000,span_weakly_correlated,True
 mckp,2753452.0,0.0,span_weakly_correlated_10000-rnduniform-rnduniform-2000-20-5,feasible,223.15168362,2000,20,5,10000,span_weakly_correlated,True
 mckp,664811.0,0.0,almost_strongly_correlated_10000-rnduniform-rnduniform-200-20-8,feasible,3.690037405,200,20,8,10000,almost_strongly_correlated,True
-compact,585847.0,0.0078512629439163,strongly_correlated_1000-rnduniform-rnduniform-2000-20-1,feasible,3600.0013270378117,2000,20,1,1000,strongly_correlated,False
+compact,585847.0,0.0078512629439163,strongly_correlated_1000-rnduniform-rnduniform-2000-20-1,feasible,3600.001327037812,2000,20,1,1000,strongly_correlated,False
 compact,21639.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-100-20-0,feasible,0.0042109489440917,100,20,0,1000,profit_ceiling,True
 compact,172256.0,0.0,uncorrelated_similar-rnduniform-rnduniform-500-20-1,feasible,0.0266549587249755,500,20,1,100000,uncorrelated_similar,True
 compact,192158.0,0.0,mstr_1000-rnduniform-rnduniform-500-20-4,feasible,3.908732891082764,500,20,4,1000,mstr,True
 compact,414276.0,0.0,uncorrelated_1000-rnduniform-rnduniform-1000-20-9,feasible,0.0437309741973876,1000,20,9,1000,uncorrelated,True
-mckp,7708821.0,0.0038396096466041,uncorrelated_10000-rnduniform-rnduniform-2000-20-0,feasible,5228.512005951,2000,20,0,10000,uncorrelated,False
+mckp,7708821.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-0,feasible,5228.512005951,2000,20,0,10000,uncorrelated,False
 compact,493629.0,0.0,inverse_strongly_correlated_1000-rnduniform-rnduniform-2000-20-2,feasible,0.0458040237426757,2000,20,2,1000,inverse_strongly_correlated,True
 compact,58299.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-200-20-4,feasible,0.8069980144500732,200,20,4,1000,span_weakly_correlated,True
 compact,339840.0,0.0179464020405941,strongly_correlated_1000-rnduniform-rnduniform-1000-20-9,feasible,3600.000906944275,1000,20,9,1000,strongly_correlated,False
@@ -1204,7 +1204,7 @@ mckp,253108.0,0.0,circle_1000-rnduniform-rnduniform-500-20-8,feasible,4.34678649
 mckp,389030.0,0.0,span_uncorrelated_10000-rnduniform-rnduniform-100-20-0,feasible,2.062522572,100,20,0,10000,span_uncorrelated,True
 compact,767475.0,8.018295344370836e-05,uncorrelated_1000-rnduniform-rnduniform-2000-100-2,feasible,0.1337289810180664,2000,100,2,1000,uncorrelated,True
 mckp,1113410.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-2000-20-9,feasible,31.359261553,2000,20,9,1000,span_uncorrelated,True
-compact,2696052.0,0.0159912977533898,span_weakly_correlated_10000-rnduniform-rnduniform-1000-100-0,feasible,3600.0008659362798,1000,100,0,10000,span_weakly_correlated,False
+compact,2696052.0,0.0159912977533898,span_weakly_correlated_10000-rnduniform-rnduniform-1000-100-0,feasible,3600.00086593628,1000,100,0,10000,span_weakly_correlated,False
 mckp,190272.0,0.0,uncorrelated_similar-rnduniform-rnduniform-500-20-9,feasible,518.303408623,500,20,9,100000,uncorrelated_similar,True
 compact,112072.0,0.0,subset_sum_1000-rnduniform-rnduniform-500-100-0,feasible,0.0130281448364257,500,100,0,1000,subset_sum,True
 compact,234975.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-1000-20-3,feasible,0.0168061256408691,1000,20,3,1000,profit_ceiling,True
@@ -1322,7 +1322,7 @@ mckp,2602047.0,0.0,span_uncorrelated_10000-rnduniform-rnduniform-500-20-9,feasib
 mckp,2323682.0,0.0,circle_10000-rnduniform-rnduniform-500-20-2,feasible,45.375486798,500,20,2,10000,circle,True
 compact,792932.0,9.087811175271133e-05,uncorrelated_1000-rnduniform-rnduniform-2000-20-2,feasible,0.0440578460693359,2000,20,2,1000,uncorrelated,True
 mckp,181946.0,0.0,span_weakly_correlated_10000-rnduniform-rnduniform-100-20-3,feasible,1.655843344,100,20,3,10000,span_weakly_correlated,True
-mckp,712427.0,0.0517679672725436,uncorrelated_similar-rnduniform-rnduniform-2000-20-2,feasible,6199.756338533,2000,20,2,100000,uncorrelated_similar,False
+mckp,712427.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-2,feasible,6199.756338533,2000,20,2,100000,uncorrelated_similar,False
 compact,223891.0,0.0,subset_sum_1000-rnduniform-rnduniform-1000-100-0,feasible,0.0164670944213867,1000,100,0,1000,subset_sum,True
 compact,462510.0,0.0,span_weakly_correlated_10000-rnduniform-rnduniform-100-20-7,feasible,0.2478668689727783,100,20,7,10000,span_weakly_correlated,True
 compact,5208670.0,9.998551615699956e-05,mstr_10000-rnduniform-rnduniform-2000-100-5,feasible,72.4180269241333,2000,100,5,10000,mstr,True
@@ -1392,7 +1392,7 @@ compact,488774.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-1000-20-4,feas
 compact,4759692.0,0.0,span_strongly_correlated_10000-rnduniform-rnduniform-2000-20-1,feasible,0.0105118751525878,2000,20,1,10000,span_strongly_correlated,True
 mckp,223902.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-1000-500-0,feasible,1.301237298,1000,500,0,1000,profit_ceiling,True
 mckp,4782816.0,0.0,circle_10000-rnduniform-rnduniform-1000-100-5,feasible,17.921867962,1000,100,5,10000,circle,True
-compact,604382.0,9.999961622347172e-05,almost_strongly_correlated_1000-rnduniform-rnduniform-2000-20-2,feasible,2803.1312460899358,2000,20,2,1000,almost_strongly_correlated,True
+compact,604382.0,9.999961622347172e-05,almost_strongly_correlated_1000-rnduniform-rnduniform-2000-20-2,feasible,2803.131246089936,2000,20,2,1000,almost_strongly_correlated,True
 mckp,546390.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-20-8,feasible,4.334344491,200,20,8,10000,inverse_strongly_correlated,True
 compact,1635541.0,0.0,span_uncorrelated_10000-rnduniform-rnduniform-500-20-3,feasible,0.0322968959808349,500,20,3,10000,span_uncorrelated,True
 compact,4054045.0,0.0,uncorrelated_10000-rnduniform-rnduniform-1000-20-7,feasible,0.0344469547271728,1000,20,7,10000,uncorrelated,True
@@ -1526,7 +1526,7 @@ compact,232978.0,0.0,subset_sum_1000-rnduniform-rnduniform-1000-20-2,feasible,0.
 compact,491644.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-20-1,feasible,0.0846929550170898,200,20,1,10000,inverse_strongly_correlated,True
 mckp,99888.0,0.0,span_strongly_correlated_1000-rnduniform-rnduniform-200-100-0,feasible,0.7600344019999999,200,100,0,1000,span_strongly_correlated,True
 mckp,162959.0,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-500-20-7,feasible,5.743508372,500,20,7,1000,almost_strongly_correlated,True
-mckp,5661434.0,0.0026670976413848,weakly_correlated_10000-rnduniform-rnduniform-2000-20-7,feasible,4084.965699685,2000,20,7,10000,weakly_correlated,False
+mckp,5661434.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-2000-20-7,feasible,4084.965699685,2000,20,7,10000,weakly_correlated,False
 mckp,504768.0,0.0,subset_sum_10000-rnduniform-rnduniform-200-100-5,feasible,4.057850709999999,200,100,5,10000,subset_sum,True
 compact,3165414.0,0.0036445471262761,almost_strongly_correlated_10000-rnduniform-rnduniform-1000-20-5,feasible,3600.0011858940125,1000,20,5,10000,almost_strongly_correlated,False
 compact,732570.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-2000-20-0,feasible,0.0181419849395751,2000,20,0,1000,span_uncorrelated,True
@@ -1563,7 +1563,7 @@ mckp,4543388.0,0.0,circle_10000-rnduniform-rnduniform-1000-20-0,feasible,309.003
 mckp,1221372.0,0.0,mstr_10000-rnduniform-rnduniform-500-20-1,feasible,39.364901297,500,20,1,10000,mstr,True
 compact,571502.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-20-8,feasible,0.0734250545501709,2000,20,8,1000,weakly_correlated,True
 compact,3348210.0,0.0048899882891971,span_strongly_correlated_10000-rnduniform-rnduniform-2000-100-1,feasible,3600.6184351444244,2000,100,1,10000,span_strongly_correlated,False
-mckp,8497988.0,0.0038595881819409,uncorrelated_10000-rnduniform-rnduniform-2000-20-9,feasible,3739.003860856,2000,20,9,10000,uncorrelated,False
+mckp,8497988.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-9,feasible,3739.003860856,2000,20,9,10000,uncorrelated,False
 mckp,2541996.0,0.0,span_weakly_correlated_10000-rnduniform-rnduniform-1000-20-1,feasible,74.462904147,1000,20,1,10000,span_weakly_correlated,True
 compact,352500.0,0.0,span_weakly_correlated_10000-rnduniform-rnduniform-100-20-8,feasible,0.1228499412536621,100,20,8,10000,span_weakly_correlated,True
 compact,1625705.0,0.0255749032252146,span_strongly_correlated_10000-rnduniform-rnduniform-500-100-8,feasible,3600.000612020493,500,100,8,10000,span_strongly_correlated,False
@@ -1604,7 +1604,7 @@ compact,25935.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-100-20-2,feasib
 mckp,726101.0,0.0,uncorrelated_10000-rnduniform-rnduniform-200-20-0,feasible,3.765096449,200,20,0,10000,uncorrelated,True
 mckp,229884.0,0.0,subset_sum_1000-rnduniform-rnduniform-1000-20-1,feasible,15.249441518,1000,20,1,1000,subset_sum,True
 compact,3873745.0,1.592196226887623e-05,uncorrelated_10000-rnduniform-rnduniform-1000-20-2,feasible,0.0738930702209472,1000,20,2,10000,uncorrelated,True
-mckp,5537705.0,0.0090281959587989,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-20-8,feasible,4329.902384804,2000,20,8,10000,inverse_strongly_correlated,False
+mckp,5537705.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-20-8,feasible,4329.902384804,2000,20,8,10000,inverse_strongly_correlated,False
 mckp,70526.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-1000-100-5,feasible,0.125778818,1000,100,5,1000,span_weakly_correlated,True
 mckp,5015544.0,0.0,subset_sum_10000-rnduniform-rnduniform-2000-100-5,feasible,71.951470076,2000,100,5,10000,subset_sum,True
 mckp,4003263.0,0.0,uncorrelated_10000-rnduniform-rnduniform-1000-100-7,feasible,24.4863299,1000,100,7,10000,uncorrelated,True
@@ -1830,7 +1830,7 @@ mckp,546372.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-100-6,feasib
 mckp,52561.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-200-20-1,feasible,0.408796518,200,20,1,1000,weakly_correlated,True
 mckp,1335132.0,0.0,mstr_10000-rnduniform-rnduniform-500-20-5,feasible,37.639311031,500,20,5,10000,mstr,True
 compact,4003263.0,0.0,uncorrelated_10000-rnduniform-rnduniform-1000-100-7,feasible,0.0411760807037353,1000,100,7,10000,uncorrelated,True
-compact,5232237.0,0.0097462882921378,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-20-5,feasible,3600.0015230178838,2000,20,5,10000,inverse_strongly_correlated,False
+compact,5232237.0,0.0097462882921378,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-20-5,feasible,3600.001523017884,2000,20,5,10000,inverse_strongly_correlated,False
 mckp,30074.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-100-20-1,feasible,0.300439452,100,20,1,1000,span_weakly_correlated,True
 mckp,33674.0,0.0,strongly_correlated_1000-rnduniform-rnduniform-100-20-9,feasible,0.197137037,100,20,9,1000,strongly_correlated,True
 mckp,1193750.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-500-20-0,feasible,42.048403776,500,20,0,10000,inverse_strongly_correlated,True
@@ -1864,7 +1864,7 @@ mckp,1719531.0,0.0,almost_strongly_correlated_10000-rnduniform-rnduniform-500-20
 mckp,158853.0,0.0,strongly_correlated_1000-rnduniform-rnduniform-500-20-5,feasible,7.037507451,500,20,5,1000,strongly_correlated,True
 mckp,632471.0,0.0,strongly_correlated_1000-rnduniform-rnduniform-2000-20-5,feasible,225.413747155,2000,20,5,1000,strongly_correlated,True
 compact,9597734.0,9.316061794136104e-05,circle_10000-rnduniform-rnduniform-2000-100-4,feasible,0.6708660125732422,2000,100,4,10000,circle,True
-compact,2781703.0,9.978042016437428e-05,inverse_strongly_correlated_10000-rnduniform-rnduniform-1000-100-9,feasible,224.19586992263797,1000,100,9,10000,inverse_strongly_correlated,True
+compact,2781703.0,9.978042016437428e-05,inverse_strongly_correlated_10000-rnduniform-rnduniform-1000-100-9,feasible,224.195869922638,1000,100,9,10000,inverse_strongly_correlated,True
 compact,2252223.0,4.1665636433587805e-05,profit_ceiling_10000-rnduniform-rnduniform-1000-500-0,feasible,0.0196621417999267,1000,500,0,10000,profit_ceiling,True
 mckp,600193.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-2000-100-4,feasible,6.858671708999999,2000,100,4,1000,span_uncorrelated,True
 mckp,40323.0,0.0,uncorrelated_similar-rnduniform-rnduniform-100-20-8,feasible,68.079009117,100,20,8,100000,uncorrelated_similar,True
@@ -2104,7 +2104,7 @@ mckp,769714.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-2000-20-6,feasibl
 compact,2522385.0,0.0,subset_sum_10000-rnduniform-rnduniform-1000-100-7,feasible,0.0230019092559814,1000,100,7,10000,subset_sum,True
 compact,1532330.0,9.402205325616056e-05,almost_strongly_correlated_10000-rnduniform-rnduniform-500-20-6,feasible,1.319509983062744,500,20,6,10000,almost_strongly_correlated,True
 mckp,21639.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-100-20-0,feasible,0.188700009,100,20,0,1000,profit_ceiling,True
-mckp,715476.0,0.0368849023388381,uncorrelated_similar-rnduniform-rnduniform-2000-20-3,feasible,4599.850789149,2000,20,3,100000,uncorrelated_similar,False
+mckp,715476.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-3,feasible,4599.850789149,2000,20,3,100000,uncorrelated_similar,False
 mckp,207675.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-500-20-4,feasible,3.60117735,500,20,4,1000,span_weakly_correlated,True
 mckp,70055.0,0.0,mstr_1000-rnduniform-rnduniform-200-100-3,feasible,0.397858405,200,100,3,1000,mstr,True
 compact,276196.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-1000-20-6,feasible,0.0286569595336914,1000,20,6,1000,weakly_correlated,True
@@ -2307,7 +2307,7 @@ compact,257796.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-1000-100-8,feasib
 compact,1380628.0,0.005476532094336,inverse_strongly_correlated_10000-rnduniform-rnduniform-500-20-7,feasible,3600.0006890296936,500,20,7,10000,inverse_strongly_correlated,False
 mckp,457728.0,0.0,subset_sum_10000-rnduniform-rnduniform-200-100-1,feasible,5.5953955220000005,200,100,1,10000,subset_sum,True
 compact,55118.0,0.0,subset_sum_1000-rnduniform-rnduniform-200-20-8,feasible,0.002918004989624,200,20,8,1000,subset_sum,True
-mckp,745222.0,0.0213313728147081,uncorrelated_similar-rnduniform-rnduniform-2000-20-4,feasible,4880.477084323,2000,20,4,100000,uncorrelated_similar,False
+mckp,745222.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-4,feasible,4880.477084323,2000,20,4,100000,uncorrelated_similar,False
 mckp,678997.0,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-2000-100-9,feasible,10.198168458,2000,100,9,1000,almost_strongly_correlated,True
 mckp,5771370.0,0.0,span_weakly_correlated_10000-rnduniform-rnduniform-2000-100-6,feasible,85.4872812,2000,100,6,10000,span_weakly_correlated,True
 mckp,1608643.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-500-100-9,feasible,10.504988788,500,100,9,10000,strongly_correlated,True
@@ -2335,7 +2335,7 @@ compact,140091.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-50-20-1,fea
 compact,45054.0,0.0,subset_sum_1000-rnduniform-rnduniform-200-100-0,feasible,0.0025591850280761,200,100,0,1000,subset_sum,True
 compact,1261144.0,7.929302340333586e-05,mstr_10000-rnduniform-rnduniform-500-20-2,feasible,0.0676639080047607,500,20,2,10000,mstr,True
 mckp,2394983.0,0.0,mstr_10000-rnduniform-rnduniform-1000-20-1,feasible,346.544751101,1000,20,1,10000,mstr,True
-mckp,8078208.0,0.0041962991612229,uncorrelated_10000-rnduniform-rnduniform-2000-20-4,feasible,3785.683701916,2000,20,4,10000,uncorrelated,False
+mckp,8078208.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-4,feasible,3785.683701916,2000,20,4,10000,uncorrelated,False
 compact,510777.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-200-100-1,feasible,0.017298936843872,200,100,1,10000,weakly_correlated,True
 compact,4979449.0,6.0247593510289886e-05,subset_sum_10000-rnduniform-rnduniform-2000-20-5,feasible,0.0127930641174316,2000,20,5,10000,subset_sum,True
 compact,1043960.0,6.385936635648568e-05,circle_1000-rnduniform-rnduniform-2000-20-9,feasible,0.0638401508331298,2000,20,9,1000,circle,True
@@ -2352,7 +2352,7 @@ compact,488226.0,0.0,circle_1000-rnduniform-rnduniform-1000-20-5,feasible,0.2756
 mckp,458539.0,0.0,mstr_10000-rnduniform-rnduniform-200-100-0,feasible,5.071564641,200,100,0,10000,mstr,True
 compact,474717.0,0.0,circle_1000-rnduniform-rnduniform-1000-20-2,feasible,0.167529821395874,1000,20,2,1000,circle,True
 mckp,45992.0,0.0,subset_sum_1000-rnduniform-rnduniform-200-20-1,feasible,0.323018361,200,20,1,1000,subset_sum,True
-mckp,7921226.0,0.0023859373609386,uncorrelated_10000-rnduniform-rnduniform-2000-20-2,feasible,3952.97034985,2000,20,2,10000,uncorrelated,False
+mckp,7921226.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-2,feasible,3952.97034985,2000,20,2,10000,uncorrelated,False
 mckp,9109.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-100-20-7,feasible,0.1687062329999999,100,20,7,1000,span_uncorrelated,True
 mckp,618695.0,0.0,span_strongly_correlated_1000-rnduniform-rnduniform-1000-100-8,feasible,3.484860741,1000,100,8,1000,span_strongly_correlated,True
 mckp,440678.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-100-0,feasible,5.805781521999999,200,100,0,10000,inverse_strongly_correlated,True
@@ -2449,7 +2449,7 @@ compact,618056.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-200-20-6,fe
 mckp,477308.0,0.0,circle_1000-rnduniform-rnduniform-1000-100-5,feasible,1.493711162,1000,100,5,1000,circle,True
 compact,5078829.0,9.844779333209158e-05,subset_sum_10000-rnduniform-rnduniform-2000-100-6,feasible,0.0258021354675292,2000,100,6,10000,subset_sum,True
 mckp,5214858.0,0.0,mstr_10000-rnduniform-rnduniform-2000-20-5,feasible,1918.21528552,2000,20,5,10000,mstr,True
-mckp,8115379.0,0.0051750912017411,uncorrelated_10000-rnduniform-rnduniform-2000-20-6,feasible,3855.552440583,2000,20,6,10000,uncorrelated,False
+mckp,8115379.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-6,feasible,3855.552440583,2000,20,6,10000,uncorrelated,False
 compact,4854433.0,0.0,span_uncorrelated_10000-rnduniform-rnduniform-2000-20-4,feasible,0.0159900188446044,2000,20,4,10000,span_uncorrelated,True
 mckp,1952204.0,0.0,span_uncorrelated_10000-rnduniform-rnduniform-1000-100-4,feasible,23.538552808,1000,100,4,10000,span_uncorrelated,True
 compact,53319.0,0.0,inverse_strongly_correlated_1000-rnduniform-rnduniform-200-20-5,feasible,0.0232009887695312,200,20,5,1000,inverse_strongly_correlated,True
@@ -2522,7 +2522,7 @@ mckp,58104.0,0.0,span_strongly_correlated_1000-rnduniform-rnduniform-200-20-0,fe
 mckp,5629512.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-2000-100-8,feasible,92.662756388,2000,100,8,10000,weakly_correlated,True
 mckp,443910.0,0.0,subset_sum_1000-rnduniform-rnduniform-2000-100-1,feasible,9.621339459,2000,100,1,1000,subset_sum,True
 compact,5900221.0,9.861164781479409e-05,weakly_correlated_10000-rnduniform-rnduniform-2000-20-9,feasible,0.2928440570831299,2000,20,9,10000,weakly_correlated,True
-mckp,766339.0,0.0198306307575692,uncorrelated_similar-rnduniform-rnduniform-2000-20-9,feasible,5692.427602483001,2000,20,9,100000,uncorrelated_similar,False
+mckp,766339.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-9,feasible,5692.427602483001,2000,20,9,100000,uncorrelated_similar,False
 compact,3259304.0,0.0253692798430199,strongly_correlated_10000-rnduniform-rnduniform-1000-20-6,feasible,3600.002137184143,1000,20,6,10000,strongly_correlated,False
 mckp,54082.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-200-20-8,feasible,0.4000599419999999,200,20,8,1000,span_weakly_correlated,True
 mckp,780937.0,0.0,uncorrelated_1000-rnduniform-rnduniform-2000-100-3,feasible,10.455079275,2000,100,3,1000,uncorrelated,True
@@ -2548,7 +2548,7 @@ compact,407956.0,0.0,mstr_1000-rnduniform-rnduniform-1000-20-5,feasible,489.0944
 mckp,2530452.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-1000-100-4,feasible,26.288725936,1000,100,4,10000,inverse_strongly_correlated,True
 compact,267879.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-1000-100-9,feasible,0.0775949954986572,1000,100,9,1000,profit_ceiling,True
 compact,2296346.0,0.0,subset_sum_10000-rnduniform-rnduniform-1000-20-1,feasible,0.011758804321289,1000,20,1,10000,subset_sum,True
-compact,522081.0,9.932186876490304e-05,circle_1000-rnduniform-rnduniform-1000-20-9,feasible,1.9168171882629397,1000,20,9,1000,circle,True
+compact,522081.0,9.932186876490304e-05,circle_1000-rnduniform-rnduniform-1000-20-9,feasible,1.91681718826294,1000,20,9,1000,circle,True
 mckp,100707.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-200-20-9,feasible,0.916369586,200,20,9,1000,span_weakly_correlated,True
 mckp,5177197.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-2000-20-3,feasible,3098.615584597,2000,20,3,10000,weakly_correlated,True
 compact,285062.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-100-20-8,feasible,0.0436110496520996,100,20,8,10000,weakly_correlated,True
@@ -2556,7 +2556,7 @@ compact,1013229.0,0.000843381158125,span_weakly_correlated_1000-rnduniform-rndun
 mckp,257256.0,0.0,inverse_strongly_correlated_1000-rnduniform-rnduniform-1000-20-3,feasible,24.305151904,1000,20,3,1000,inverse_strongly_correlated,True
 mckp,380976.0,0.0,mstr_1000-rnduniform-rnduniform-1000-20-2,feasible,34.418745209,1000,20,2,1000,mstr,True
 mckp,814193.0,0.0,uncorrelated_10000-rnduniform-rnduniform-200-20-5,feasible,5.619305329,200,20,5,10000,uncorrelated,True
-mckp,755151.0,0.0071503763878681,uncorrelated_similar-rnduniform-rnduniform-2000-20-5,feasible,4873.6620815530005,2000,20,5,100000,uncorrelated_similar,False
+mckp,755151.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-5,feasible,4873.6620815530005,2000,20,5,100000,uncorrelated_similar,False
 mckp,263475.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-1000-20-2,feasible,33.470553568,1000,20,2,1000,weakly_correlated,True
 mckp,1358004.0,0.0,mstr_10000-rnduniform-rnduniform-500-20-7,feasible,47.531699479,500,20,7,10000,mstr,True
 compact,490899.0,0.0,mstr_10000-rnduniform-rnduniform-200-20-0,feasible,0.0348620414733886,200,20,0,10000,mstr,True
@@ -2673,7 +2673,7 @@ compact,384696.0,0.0,mstr_1000-rnduniform-rnduniform-1000-20-3,feasible,79.01432
 compact,50882.0,0.0,subset_sum_1000-rnduniform-rnduniform-200-20-9,feasible,0.0045101642608642,200,20,9,1000,subset_sum,True
 compact,142948.0,0.0,mstr_10000-rnduniform-rnduniform-50-20-6,feasible,0.0204980373382568,50,20,6,10000,mstr,True
 compact,2910713.0,9.980403113309844e-05,weakly_correlated_10000-rnduniform-rnduniform-1000-100-9,feasible,0.0999979972839355,1000,100,9,10000,weakly_correlated,True
-mckp,7958530.0,0.0070108535048236,uncorrelated_10000-rnduniform-rnduniform-2000-20-3,feasible,3966.90441896,2000,20,3,10000,uncorrelated,False
+mckp,7958530.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-3,feasible,3966.90441896,2000,20,3,10000,uncorrelated,False
 mckp,549319.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-20-5,feasible,331.13117168400004,2000,20,5,1000,weakly_correlated,True
 mckp,344778.0,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-1000-20-9,feasible,47.882370805,1000,20,9,1000,almost_strongly_correlated,True
 mckp,256655.0,0.0,subset_sum_1000-rnduniform-rnduniform-1000-100-6,feasible,1.654760727,1000,100,6,1000,subset_sum,True
@@ -2702,7 +2702,7 @@ mckp,114918.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-500-20-3,feasible,4.
 mckp,384192.0,0.0,mstr_1000-rnduniform-rnduniform-1000-100-4,feasible,2.205705154,1000,100,4,1000,mstr,True
 compact,443910.0,0.0,subset_sum_1000-rnduniform-rnduniform-2000-100-1,feasible,0.0297169685363769,2000,100,1,1000,subset_sum,True
 mckp,112072.0,0.0,subset_sum_1000-rnduniform-rnduniform-500-100-0,feasible,1.086378696,500,100,0,1000,subset_sum,True
-mckp,8202482.0,0.0030477650616892,uncorrelated_10000-rnduniform-rnduniform-2000-20-8,feasible,5109.478119126,2000,20,8,10000,uncorrelated,False
+mckp,8202482.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-8,feasible,5109.478119126,2000,20,8,10000,uncorrelated,False
 compact,6614195.0,0.0027896614615622,strongly_correlated_10000-rnduniform-rnduniform-2000-100-8,feasible,3600.001356124878,2000,100,8,10000,strongly_correlated,False
 mckp,2255029.0,0.0,subset_sum_10000-rnduniform-rnduniform-1000-500-0,feasible,20.696801155,1000,500,0,10000,subset_sum,True
 compact,527692.0,0.0,subset_sum_1000-rnduniform-rnduniform-2000-100-8,feasible,0.033174991607666,2000,100,8,1000,subset_sum,True
@@ -2749,7 +2749,7 @@ compact,16134.0,0.0,uncorrelated_1000-rnduniform-rnduniform-50-20-7,feasible,0.0
 compact,612413.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-200-20-4,feasible,0.1180360317230224,200,20,4,10000,strongly_correlated,True
 compact,60789.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-500-20-0,feasible,0.2326290607452392,500,20,0,1000,span_weakly_correlated,True
 mckp,428390.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-1000-20-2,feasible,19.472193469,1000,20,2,1000,span_weakly_correlated,True
-mckp,5372688.0,3.7225300547770296e-05,profit_ceiling_10000-rnduniform-rnduniform-2000-20-9,feasible,3629.944993108,2000,20,9,10000,profit_ceiling,False
+mckp,5372688.0,0.0,profit_ceiling_10000-rnduniform-rnduniform-2000-20-9,feasible,3629.944993108,2000,20,9,10000,profit_ceiling,False
 mckp,140940.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-500-20-7,feasible,5.151983376,500,20,7,1000,weakly_correlated,True
 compact,369240.0,0.004062233415932,span_strongly_correlated_1000-rnduniform-rnduniform-1000-100-0,feasible,3600.0013132095337,1000,100,0,1000,span_strongly_correlated,False
 mckp,100135.0,0.0,circle_1000-rnduniform-rnduniform-200-20-9,feasible,0.308194452,200,20,9,1000,circle,True
@@ -3197,7 +3197,7 @@ compact,4914904.0,9.726580321675172e-05,weakly_correlated_10000-rnduniform-rndun
 mckp,262088.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-1000-100-4,feasible,1.567549951,1000,100,4,1000,weakly_correlated,True
 compact,531560.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-100-3,feasible,0.1383500099182129,2000,100,3,1000,weakly_correlated,True
 compact,471952.0,0.0224548678340373,circle_1000-rnduniform-rnduniform-1000-20-1,feasible,3600.0008170604706,1000,20,1,1000,circle,False
-mckp,6407055.0,0.0034492036865588,almost_strongly_correlated_10000-rnduniform-rnduniform-2000-20-5,feasible,4491.998264948999,2000,20,5,10000,almost_strongly_correlated,False
+mckp,6407055.0,0.0,almost_strongly_correlated_10000-rnduniform-rnduniform-2000-20-5,feasible,4491.998264948999,2000,20,5,10000,almost_strongly_correlated,False
 compact,4681260.0,3.527167223393792e-05,profit_ceiling_10000-rnduniform-rnduniform-2000-20-2,feasible,0.0872049331665039,2000,20,2,10000,profit_ceiling,True
 compact,2440452.0,0.0,subset_sum_10000-rnduniform-rnduniform-1000-20-4,feasible,0.0044779777526855,1000,20,4,10000,subset_sum,True
 mckp,36122.0,0.0,uncorrelated_1000-rnduniform-rnduniform-100-20-2,feasible,0.186107108,100,20,2,1000,uncorrelated,True
@@ -3207,7 +3207,7 @@ compact,31322.0,0.0,span_strongly_correlated_1000-rnduniform-rnduniform-200-20-4
 compact,102988.0,0.0,circle_1000-rnduniform-rnduniform-200-20-8,feasible,0.0143067836761474,200,20,8,1000,circle,True
 compact,5793012.0,0.0,strongly_correlated_10000-rnduniform-rnduniform-2000-20-0,feasible,0.3212518692016601,2000,20,0,10000,strongly_correlated,True
 compact,547116.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-2000-100-5,feasible,0.1036419868469238,2000,100,5,1000,weakly_correlated,True
-compact,477266.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-20-2,feasible,230.87007212638852,200,20,2,10000,inverse_strongly_correlated,True
+compact,477266.0,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-200-20-2,feasible,230.8700721263885,200,20,2,10000,inverse_strongly_correlated,True
 compact,2938978.0,9.982340621312805e-05,weakly_correlated_10000-rnduniform-rnduniform-1000-20-8,feasible,0.3126659393310547,1000,20,8,10000,weakly_correlated,True
 mckp,47070.0,0.0,profit_ceiling_1000-rnduniform-rnduniform-200-100-1,feasible,0.330275615,200,100,1,1000,profit_ceiling,True
 mckp,28238.0,0.0,subset_sum_1000-rnduniform-rnduniform-100-20-7,feasible,0.201223796,100,20,7,1000,subset_sum,True
@@ -3294,7 +3294,7 @@ mckp,2318634.0,0.0,subset_sum_10000-rnduniform-rnduniform-1000-20-2,feasible,156
 compact,2855721.0,0.0,weakly_correlated_10000-rnduniform-rnduniform-1000-100-8,feasible,0.0483272075653076,1000,100,8,10000,weakly_correlated,True
 mckp,993088.0,0.0,circle_1000-rnduniform-rnduniform-2000-100-6,feasible,10.44804628,2000,100,6,1000,circle,True
 compact,292985.99999999994,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-1000-20-0,feasible,0.2322759628295898,1000,20,0,1000,almost_strongly_correlated,True
-mckp,706057.0,0.0720385639841147,uncorrelated_similar-rnduniform-rnduniform-2000-20-1,feasible,5682.554163518,2000,20,1,100000,uncorrelated_similar,False
+mckp,706057.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-1,feasible,5682.554163518,2000,20,1,100000,uncorrelated_similar,False
 compact,61005.0,0.0,almost_strongly_correlated_1000-rnduniform-rnduniform-200-20-2,feasible,1.0964958667755127,200,20,2,1000,almost_strongly_correlated,True
 compact,290017.0,0.0,weakly_correlated_1000-rnduniform-rnduniform-1000-20-7,feasible,0.0857501029968261,1000,20,7,1000,weakly_correlated,True
 compact,3014493.0,0.0209541994741294,strongly_correlated_10000-rnduniform-rnduniform-1000-20-2,feasible,3600.0008058547974,1000,20,2,10000,strongly_correlated,False
@@ -3407,7 +3407,7 @@ compact,576340.0,0.0050314989182277,span_uncorrelated_1000-rnduniform-rnduniform
 mckp,132538.0,0.0,mstr_10000-rnduniform-rnduniform-50-20-9,feasible,1.023898431,50,20,9,10000,mstr,True
 mckp,310275.0,0.0,span_weakly_correlated_1000-rnduniform-rnduniform-2000-20-0,feasible,40.442371516,2000,20,0,1000,span_weakly_correlated,True
 compact,5057658.0,0.000472038009872,span_uncorrelated_10000-rnduniform-rnduniform-1000-100-2,feasible,3600.000783920288,1000,100,2,10000,span_uncorrelated,False
-compact,5214858.0,0.0003315383912607,mstr_10000-rnduniform-rnduniform-2000-20-5,feasible,3600.0018861293797,2000,20,5,10000,mstr,False
+compact,5214858.0,0.0003315383912607,mstr_10000-rnduniform-rnduniform-2000-20-5,feasible,3600.00188612938,2000,20,5,10000,mstr,False
 mckp,453504.0,0.0,profit_ceiling_10000-rnduniform-rnduniform-200-20-0,feasible,3.525829188,200,20,0,10000,profit_ceiling,True
 mckp,488226.0,0.0,circle_1000-rnduniform-rnduniform-1000-20-5,feasible,24.411067402,1000,20,5,1000,circle,True
 mckp,8249415.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-100-8,feasible,104.257713201,2000,100,8,10000,uncorrelated,True
@@ -3562,14 +3562,14 @@ mckp,367368.0,0.0,uncorrelated_similar-rnduniform-rnduniform-1000-20-3,feasible,
 mckp,527507.0,0.0,subset_sum_1000-rnduniform-rnduniform-2000-100-9,feasible,11.365854445,2000,100,9,1000,subset_sum,True
 compact,81515.0,0.0,circle_1000-rnduniform-rnduniform-200-100-1,feasible,0.0043811798095703,200,100,1,1000,circle,True
 compact,1247732.0,9.895214362131106e-05,weakly_correlated_10000-rnduniform-rnduniform-500-20-0,feasible,0.044543981552124,500,20,0,10000,weakly_correlated,True
-mckp,3357445.0,9.630767033661956e-05,almost_strongly_correlated_10000-rnduniform-rnduniform-1000-100-9,feasible,0.24299035241865066,1000,100,9,10000,almost_strongly_correlated,True
-mckp,911842.0,9.971669069383851e-05,circle_1000-rnduniform-rnduniform-2000-100-2,feasible,1.2437770817846863,2000,100,2,1000,circle,True
-mckp,790041.0,8.913774404363776e-05,mstr_1000-rnduniform-rnduniform-2000-100-4,feasible,0.5082997574467196,2000,100,4,1000,mstr,True
-mckp,10000184.0,9.96217745002693e-05,circle_10000-rnduniform-rnduniform-2000-100-6,feasible,0.45426903304362304,2000,100,6,10000,circle,True
-mckp,21085.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-50-20-9,feasible,0.0008309387681016628,50,20,9,1000,span_uncorrelated,True
-mckp,845179.0,9.975860624622282e-05,mstr_1000-rnduniform-rnduniform-2000-100-9,feasible,44.64194704919991,2000,100,9,1000,mstr,True
-mckp,8377680.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-7,feasible,0.04020847237787181,2000,20,7,10000,uncorrelated,True
-mckp,746501.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-6,feasible,0.05833765538591214,2000,20,6,100000,uncorrelated_similar,True
-mckp,5374294.999999994,7.656517441726595e-05,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-100-6,feasible,1.318300222751238,2000,100,6,10000,inverse_strongly_correlated,True
-mckp,9670916.0,9.931378102875368e-05,circle_10000-rnduniform-rnduniform-2000-100-5,feasible,0.8444923594924557,2000,100,5,10000,circle,True
-mckp,155005.0,0.0,uncorrelated_10000-rnduniform-rnduniform-50-20-2,feasible,0.0006938200521492206,50,20,2,10000,uncorrelated,True
+mckp,3357445.0,0.0,almost_strongly_correlated_10000-rnduniform-rnduniform-1000-100-9,feasible,0.2429903524186506,1000,100,9,10000,almost_strongly_correlated,True
+mckp,911842.0,0.0,circle_1000-rnduniform-rnduniform-2000-100-2,feasible,1.2437770817846865,2000,100,2,1000,circle,True
+mckp,790041.0,0.0,mstr_1000-rnduniform-rnduniform-2000-100-4,feasible,0.5082997574467196,2000,100,4,1000,mstr,True
+mckp,10000184.0,0.0,circle_10000-rnduniform-rnduniform-2000-100-6,feasible,0.454269033043623,2000,100,6,10000,circle,True
+mckp,21085.0,0.0,span_uncorrelated_1000-rnduniform-rnduniform-50-20-9,feasible,0.0008309387681016,50,20,9,1000,span_uncorrelated,True
+mckp,845179.0,0.0,mstr_1000-rnduniform-rnduniform-2000-100-9,feasible,44.64194704919991,2000,100,9,1000,mstr,True
+mckp,8377680.0,0.0,uncorrelated_10000-rnduniform-rnduniform-2000-20-7,feasible,0.0402084723778718,2000,20,7,10000,uncorrelated,True
+mckp,746501.0,0.0,uncorrelated_similar-rnduniform-rnduniform-2000-20-6,feasible,0.0583376553859121,2000,20,6,100000,uncorrelated_similar,True
+mckp,5374294.999999994,0.0,inverse_strongly_correlated_10000-rnduniform-rnduniform-2000-100-6,feasible,1.318300222751238,2000,100,6,10000,inverse_strongly_correlated,True
+mckp,9670916.0,0.0,circle_10000-rnduniform-rnduniform-2000-100-5,feasible,0.8444923594924557,2000,100,5,10000,circle,True
+mckp,155005.0,0.0,uncorrelated_10000-rnduniform-rnduniform-50-20-2,feasible,0.0006938200521492,50,20,2,10000,uncorrelated,True
